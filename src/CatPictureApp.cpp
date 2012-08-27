@@ -12,6 +12,7 @@ class CatPictureApp : public AppBasic {
 	void update();
 	void draw();
 private:
+    //going to double for the amount of red/green/blue and its xcoordinate on screen
     float* posX;
     float* posY;
     float* velocityX;
@@ -29,7 +30,7 @@ void CatPictureApp::setup()
     for(int i = 0; i<coorLen; i++){
         posX[i] = 100;
         posY[i] = 100*(i+1);
-        velocityX[i] = (i+1)*2;
+        velocityX[i] = (i+1)*.5;
     }
 }
 
@@ -39,6 +40,8 @@ void CatPictureApp::mouseDown( MouseEvent event )
 
 void CatPictureApp::update()
 {
+//changes the value of each bar, changing the direction if it
+    //exceeds 255
     for(int i = 0; i<coorLen; i++){
         posX[i] += velocityX[i];
         if(posX[i] > 255 || posX[i] < 0)
@@ -48,11 +51,20 @@ void CatPictureApp::update()
 
 void CatPictureApp::draw()
 {
+    
 	gl::clear( Color( posX[0]/255.0, posX[1]/255.0, posX[2]/255.0 ) );
-    for(int i = 0; i<coorLen; i++){
-        gl::drawSolidCircle(Vec2f(posX[i]*2+50, posY[i]), 20.0f);
-        
-    }
+    
+    //Red Slider bar
+    gl::color(1.0f, 0.0f, 0.0f);
+    gl::drawSolidCircle(Vec2f(posX[0]*2+50, posY[0]), 20.0f);
+    
+    //Green slider bar
+    gl::color(0.0f, 1.0f, 0.0f);
+    gl::drawSolidCircle(Vec2f(posX[1]*2+50, posY[1]), 20.0f);
+    
+    //Blue slider bar
+    gl::color(0.0f, 0.0f, 1.0f);
+    gl::drawSolidCircle(Vec2f(posX[2]*2+50, posY[2]), 20.0f);
     
 }
 

@@ -2520,9 +2520,9 @@ t1336782579
 s24149
 
 N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/../src/CatPictureApp.cpp
-c00000000503AE112000000000000046E
-t1346035986
-s1134
+c00000000503AE4810000000000000612
+t1346036865
+s1554
 
 N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPicture.LinkFileList
 c00000000503ADB2D00000000000000A2
@@ -2530,11 +2530,11 @@ t1346034477
 s162
 
 N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.o
-t1346035970
-s292000
+t1346036578
+s293000
 
 N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app
-t1346035971
+t1346036579
 s102
 
 N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/Info.plist
@@ -2542,8 +2542,8 @@ t1346034477
 s1227
 
 N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/MacOS/CatPicture
-t1346035971
-s7799276
+t1346036579
+s7799556
 
 N/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/PkgInfo
 t1346034477
@@ -2578,11 +2578,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa241fe9418ebb541^5eb9fe9418ebb541^---0#1#0#--18"Check dependencies36"60FD257A-796F-4B25-8963-6CA21A2C941E-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8f6f135e1cebb541^14ae135e1cebb541^---0#1#0#--18"Check dependencies36"9A60CAD6-F8CB-479B-9DA6-A39D2C6BF668-
 
 CCompileC ./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/../src/CatPictureApp.cpp" normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s367728789.035937
-e367728791.520345
+s367729758.115973
+e367729760.012316
 r1
 xCompileC
 x./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.o
@@ -2591,7 +2591,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/../src/CatPictureApp.cppee5b099518ebb541^3738859718ebb541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/CatPicture/xcode/../src/CatPictureApp.cpp0000000000000000^2665"CompileC ./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.o ../src/CatPictureApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-generated-files.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-own-target-headers.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-all-target-headers.hmap" -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-project-headers.hmap" -iquote../../../../../../../../Applications/cinder/include -iquote../include "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug/include" -I../../../../../../../../Applications/cinder/boost "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/DerivedSources/i386" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/DerivedSources" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug" -include /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CatPicture_Prefix-bxcynwrcjndoqedpiacvkwxevltu/CatPicture_Prefix.pch -MMD -MT dependencies -MF "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.d" -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/../src/CatPictureApp.cpp" -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.o"36"4331795B-7FA9-472E-831F-6D432DDD79A5-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/../src/CatPictureApp.cpp79ea1d5e1cebb541^c02603601cebb541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/CatPicture/xcode/../src/CatPictureApp.cpp0000000000000000^2665"CompileC ./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.o ../src/CatPictureApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-generated-files.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-own-target-headers.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-all-target-headers.hmap" -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-project-headers.hmap" -iquote../../../../../../../../Applications/cinder/include -iquote../include "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug/include" -I../../../../../../../../Applications/cinder/boost "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/DerivedSources/i386" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/DerivedSources" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug" -include /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CatPicture_Prefix-bxcynwrcjndoqedpiacvkwxevltu/CatPicture_Prefix.pch -MMD -MT dependencies -MF "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.d" -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/../src/CatPictureApp.cpp" -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPictureApp.o"36"3220DFE6-E683-48D6-9C1D-9A61FB6E3210-
 
 CCpResource CinderApp.icns ./build/Debug/CatPicture.app/Contents/Resources/CinderApp.icns
 s367727277.483224
@@ -2603,14 +2603,14 @@ x./build/Debug/CatPicture.app/Contents/Resources/CinderApp.icns
 lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy ./build/Debug/CatPicture.app/Contents/Resources/CinderApp.icns1ac47bad12ebb541^d6717cad12ebb541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/Resources/CinderApp.icns00f44414deffdf42^511"CpResource CinderApp.icns ./build/Debug/CatPicture.app/Contents/Resources/CinderApp.icns    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/CinderApp.icns" "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/Resources"36"43198846-BDE6-4063-811F-5EE12DDBD141-
 
 CLd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/MacOS/CatPicture" normal i386
-s367728791.527367
-e367728791.929488
+s367729760.020331
+e367729760.383278
 r1
 xLd
 x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/MacOS/CatPicture
 xnormal
 xi386
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/MacOS/CatPicture0d1d879718ebb541^62f3ed9718ebb541^---0#0#0#--1084"Ld ./build/Debug/CatPicture.app/Contents/MacOS/CatPicture normal i386    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug" -filelist "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPicture.LinkFileList" -mmacosx-version-min=10.5 ../../../../../../../../Applications/cinder/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/MacOS/CatPicture"36"DAE96CBA-192D-4A6D-93BE-5E6DE997EAE7-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/MacOS/CatPictured06205601cebb541^821e62601cebb541^---0#0#0#--1084"Ld ./build/Debug/CatPicture.app/Contents/MacOS/CatPicture normal i386    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug" -filelist "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/Objects-normal/i386/CatPicture.LinkFileList" -mmacosx-version-min=10.5 ../../../../../../../../Applications/cinder/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/MacOS/CatPicture"36"D29F99C7-57E8-45DD-A584-7E0690AD6F4C-
 
 CProcessInfoPlistFile "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app/Contents/Info.plist" Info.plist
 s367727277.462900
@@ -2638,10 +2638,10 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CatPicture_Prefix.pch5ea27ead12ebb541^9e5fbcad12ebb541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/brandonsonoda/Documents/College/SemesterThree/CSE%20274/CatPicture/xcode/CatPicture_Prefix.pch0000000000000000^2585"ProcessPCH++ /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CatPicture_Prefix-bxcynwrcjndoqedpiacvkwxevltu/CatPicture_Prefix.pch.pth CatPicture_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -Wno-sign-conversion -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-generated-files.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-own-target-headers.hmap" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-all-target-headers.hmap" -iquote "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/CatPicture-project-headers.hmap" -iquote../../../../../../../../Applications/cinder/include -iquote../include "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug/include" -I../../../../../../../../Applications/cinder/boost "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/DerivedSources/i386" "-I/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/CatPicture.build/Debug/CatPicture.build/DerivedSources" "-F/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/build/Debug" -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/CatPicture_Prefix.pch" -o /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CatPicture_Prefix-bxcynwrcjndoqedpiacvkwxevltu/CatPicture_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6v/y6c8z8691v3fhxbwjxbyn0qc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CatPicture_Prefix-bxcynwrcjndoqedpiacvkwxevltu/CatPicture_Prefix.pch.d36"159655BB-ED48-4CEA-85A9-83465C935130-
 
 CTouch "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app"
-s367728791.937704
-e367728791.942179
+s367729760.391546
+e367729760.396065
 r1
 xTouch
 x/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app
-lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app261af09718ebb541^a532f19718ebb541^---0#0#0#--253"Touch ./build/Debug/CatPicture.app    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    /usr/bin/touch -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app"36"37EA86C4-D96D-42EF-B835-EDE072D05634-
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app874d64601cebb541^fe6365601cebb541^---0#0#0#--253"Touch ./build/Debug/CatPicture.app    cd "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode"    /usr/bin/touch -c "/Users/brandonsonoda/Documents/College/SemesterThree/CSE 274/CatPicture/xcode/./build/Debug/CatPicture.app"36"A171BC3A-CBE5-43BB-BF30-178F69A871DD-
 
